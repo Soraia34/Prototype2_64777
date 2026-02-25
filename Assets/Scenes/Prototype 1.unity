@@ -1966,6 +1966,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: decc2e3706a7c5040963c0cb75e7452b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  horizontalInput: 0
+  forwardInput: 0
 --- !u!54 &1173013393
 Rigidbody:
   m_ObjectHideFlags: 0
